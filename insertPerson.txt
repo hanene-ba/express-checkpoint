@@ -1,0 +1,24 @@
+db.persons.insert({
+    name : 'Hanene',
+    id : 1
+    age : 24,
+    favoriteFoods : 'Pizza'
+})
+db.persons.insert({
+    name : 'Faten',
+    id : 2
+    age : 27,
+    favoriteFoods : Lasagne
+})
+db.persons.insert({
+    name : 'Henda',
+    id : 3
+    age : 50,
+    favoriteFoods : 'couscous'
+})
+db.persons.insert({
+    name : 'fathi',
+    id : 4
+    age : 55,
+    favoriteFoods : 'soupe'
+})
